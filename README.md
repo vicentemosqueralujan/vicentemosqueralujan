@@ -1,70 +1,81 @@
-{
-  "player_name": "Vicente Mosquera Luján",
-  "class": "SysAdmin",
-  "new_class_quest": "Software Developer 🧙‍♂️",
-  "level": "5+ (Experiencia en IT)",
-  "location": "Madrid, Spain 🇪🇸",
-  "status": "Transicionando de clase: fusionando infraestructura y código.",
+# 🚀 Welcome to **Vicente Mosquera Luján's** Profile 🚀
 
-  "lore": [
-    "Un apasionado profesional de IT con más de 5 años de experiencia en administración",
-    "de sistemas y automatización. Actualmente en una emocionante misión para dominar",
-    "el desarrollo de software, combinando mi 'lore' de infraestructura con hechizos",
-    "de código para forjar herramientas eficientes que faciliten el trabajo de la gente."
-  ],
+### 🎮 **Player Character Sheet: vml_player_profile.md** 🎮
 
-  "attributes": {
-    "system_administration": "Experto",
-    "automation_magic": "Alto",
-    "scripting_finesse": "Avanzado",
-    "full_stack_development": "¡Subiendo de nivel! (Aprendiendo)"
-  },
+---
 
-  "skill_tree": {
-    "sysadmin_branch": [
-      "Windows Server",
-      "VMware",
-      "Intune",
-      "Active Directory",
-      "GPOs"
-    ],
-    "scripting_branch": [
-      "PowerShell",
-      "Python",
-      "Java",
-      "JavaScript"
-    ],
-    "automation_branch": [
-      "Jira Service Management Automation",
-      "REST API Integration"
-    ],
-    "dev_branch": [
-      "HTML",
-      "CSS",
-      "React (basic)",
-      "Node.js (aprendiendo)"
-    ]
-  },
+### 👤 **Player Info**
 
-  "active_missions": [
-    {
-      "quest_name": "Kairo HelpDesk AI",
-      "description": "Automatizar el análisis y respuesta de tickets de Jira con IA."
-    },
-    {
-      "quest_name": "KassandraBot",
-      "description": "Bot IA (Jira + OpenAI) para gestión inteligente de tickets."
-    },
-    {
-      "quest_name": "EvaBot",
-      "description": "Asistente de WhatsApp para pymes con integración en Google Calendar."
-    }
-  ],
+* **Username:** Vicente Mosquera Luján
+* **Main Class:** `SysAdmin` 🛠️
+* **New Class (In Progress):** `Software Developer` 🧙‍♂️
+* **Experience Level:** `5+` years in IT 📈
+* **Current Location:** Madrid, Spain 🇪🇸
+* **Status:** On **"Class Transition Quest"** - Merging infrastructure magic with the power of code.
 
-  "passive_buffs": [
-    "✈️ Trotamundos: Gana +10 EXP al descubrir nuevas culturas.",
-    "💡 Aprendizaje Rápido: Absorbe continuamente nuevos 'skills' (tech y vida)."
-  ],
+---
 
-  "guild_invite": "¡Conectemos y creemos algo épico juntos!"
-}
+### 📜 **Character Lore**
+
+A passionate IT professional with a "lore" of over 5 years in system administration and automation. Currently embarked on an **exciting quest** to master software development. His goal: to blend his deep infrastructure wisdom with new **coding spells** to forge efficient tools that make life easier for other digital "adventurers".
+
+---
+
+### ✨ **Core Attributes**
+
+* **System Administration:** `[██████████]` Expert
+* **Automation Magic:** `[█████████░]` High
+* **Scripting Finesse:** `[████████░░]` Advanced
+* **Full-Stack Development:** `[████░░░░░░]` Leveling Up! (Learning)
+
+---
+
+### 🌳 **Skill Tree**
+
+#### 🛡️ **SysAdmin Branch:**
+* Windows Server
+* VMware
+* Intune
+* Active Directory
+* GPOs
+
+#### 🐍 **Scripting & Programming Branch:**
+* PowerShell
+* Python
+* Java
+* JavaScript
+
+#### ⚙️ **Automation & Integration Branch:**
+* Jira Service Management Automation
+* REST API Integration
+
+#### 🌐 **Web Development Branch (Learning):**
+* HTML
+* CSS
+* React (basic)
+* Node.js (learning)
+
+---
+
+### 🗺️ **Active Quests**
+
+* **Kairo HelpDesk AI:** Develop an AI to automate Jira ticket analysis and response.
+* **KassandraBot:** Create an AI bot integrated with Jira and OpenAI for smart ticket management.
+* **EvaBot:** Build a WhatsApp assistant for small businesses, integrating with Google Calendar for scheduling.
+
+---
+
+### 🎁 **Passive Buffs**
+
+* **World Traveler:** Gains +10 EXP by discovering new cultures. ✈️🌍
+* **Accelerated Learning:** Continuously absorbs new "skills" and knowledge (both in tech and in life). 💡📚
+
+---
+
+### 🤝 **Join My Guild!**
+
+Looking for a teammate for your next adventure?
+Let's connect and build something **epic** together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicentemosqueralujan/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vicentemosqueralujan)
