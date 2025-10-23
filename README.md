@@ -1,60 +1,70 @@
-# 👋 Hi, I'm Vicente Mosquera Luján
+{
+  "player_name": "Vicente Mosquera Luján",
+  "class": "SysAdmin",
+  "new_class_quest": "Software Developer 🧙‍♂️",
+  "level": "5+ (Experiencia en IT)",
+  "location": "Madrid, Spain 🇪🇸",
+  "status": "Transicionando de clase: fusionando infraestructura y código.",
 
-**System Administrator transitioning into Software Development**  
-Madrid, Spain 🇪🇸
+  "lore": [
+    "Un apasionado profesional de IT con más de 5 años de experiencia en administración",
+    "de sistemas y automatización. Actualmente en una emocionante misión para dominar",
+    "el desarrollo de software, combinando mi 'lore' de infraestructura con hechizos",
+    "de código para forjar herramientas eficientes que faciliten el trabajo de la gente."
+  ],
 
----
+  "attributes": {
+    "system_administration": "Experto",
+    "automation_magic": "Alto",
+    "scripting_finesse": "Avanzado",
+    "full_stack_development": "¡Subiendo de nivel! (Aprendiendo)"
+  },
 
-## 👨‍💻 About Me
+  "skill_tree": {
+    "sysadmin_branch": [
+      "Windows Server",
+      "VMware",
+      "Intune",
+      "Active Directory",
+      "GPOs"
+    ],
+    "scripting_branch": [
+      "PowerShell",
+      "Python",
+      "Java",
+      "JavaScript"
+    ],
+    "automation_branch": [
+      "Jira Service Management Automation",
+      "REST API Integration"
+    ],
+    "dev_branch": [
+      "HTML",
+      "CSS",
+      "React (basic)",
+      "Node.js (aprendiendo)"
+    ]
+  },
 
-I'm Vicente, a passionate IT professional with over 5 years of experience in system administration and automation.  
-Currently, I’m on an exciting journey into software development, blending my infrastructure expertise with coding to build efficient, practical tools that make people’s work easier.
+  "active_missions": [
+    {
+      "quest_name": "Kairo HelpDesk AI",
+      "description": "Automatizar el análisis y respuesta de tickets de Jira con IA."
+    },
+    {
+      "quest_name": "KassandraBot",
+      "description": "Bot IA (Jira + OpenAI) para gestión inteligente de tickets."
+    },
+    {
+      "quest_name": "EvaBot",
+      "description": "Asistente de WhatsApp para pymes con integración en Google Calendar."
+    }
+  ],
 
----
+  "passive_buffs": [
+    "✈️ Trotamundos: Gana +10 EXP al descubrir nuevas culturas.",
+    "💡 Aprendizaje Rápido: Absorbe continuamente nuevos 'skills' (tech y vida)."
+  ],
 
-## 🛠️ Skills & Technologies
-
-- **System Administration:** Windows Server, VMware, Intune, Active Directory, GPOs
-- **Scripting & Programming:** PowerShell, Python, Java, JavaScript
-- **Automation & Integration:** Jira Service Management Automation, REST API Integration
-- **Web Development:** HTML, CSS, React (basic), Node.js (learning)
-
----
-
-## 🚀 Featured Projects
-
-- **Kairo HelpDesk AI:** AI-powered helpdesk automating Jira ticket analysis and response.
-- **KassandraBot:** AI bot integrated with Jira and OpenAI for smart ticket management.
-- **EvaBot:** WhatsApp assistant for small businesses, integrating with Google Calendar for scheduling.
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicentemosqueralujan/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vicentemosqueralujan)
-
----
-
-## 🌍 Fun Fact & Hobbies
-
-I enjoy traveling, discovering new cultures, and learning continuously — both in tech and in life! 💡
-
----
-
-*Let’s connect and build something awesome together!*
-
-<!--
-**vicentemosqueralujan/vicentemosqueralujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  "guild_invite": "¡Conectemos y creemos algo épico juntos!"
+}
