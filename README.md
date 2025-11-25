@@ -1,5 +1,4 @@
 # 👋 Hi, I'm **Vicente Mosquera Luján**
 
-💻 **Developer in progress** — passionate about learning, building, and improving through code.
-🎓 Certified in **GS DAM** and starting **GS DAW** in 2026.
-🚀 Always exploring new technologies and creating tools that make a difference.
+💼 IT Support Technician with 5+ years of experience keeping systems running smoothly and users productive.
+🚀 I like exploring new tech and building tools that solve real problems.
